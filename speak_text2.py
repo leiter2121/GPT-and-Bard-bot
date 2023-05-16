@@ -7,7 +7,7 @@ polly = boto3.client(
     "polly",
     region_name="YOUR AWS REGION",
     aws_access_key_id="YOUR AWS ACCESS ID",
-    aws_secret_access_key="RYOUR AWS SECRET ACCESS KEY"
+    aws_secret_access_key="YOUR AWS SECRET ACCESS KEY"
 )
 
 # Define function to speak text using Amazon Polly

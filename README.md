@@ -26,6 +26,40 @@ Before using this script, please ensure you have the following:
 1. Go to this site, and follow the instructions. https://medium.datadriveninvestor.com/access-google-bard-easily-with-python-package-bard-api-6de77b39cd04
 2. Insert the API Key into the test_fight.py script.
 
+## Setup Amazon AWS Account for Polly Spech
+
+Step 1: Go to the Amazon Polly Website
+Open your preferred web browser and navigate to the Amazon Polly website. You can visit the official website by entering the following URL into the browser's address bar: https://aws.amazon.com/polly/
+
+Step 2: Sign in to the AWS Management Console
+To create an Amazon Polly account, you need to sign in to the AWS Management Console. If you already have an AWS account, enter your credentials (email address and password) and sign in. Otherwise, click on the "Create a new AWS account" button and follow the instructions to create a new account.
+
+Step 3: Access the Amazon Polly Service
+Once you have successfully signed in to the AWS Management Console, search for "Polly" in the search bar at the top of the page. Click on the "Amazon Polly" result to access the Polly service.
+
+Step 4: Create a New Amazon Polly Account
+On the Amazon Polly console, click on the "Get started with Amazon Polly" button or the "Try Amazon Polly Free" button to start the account creation process.
+
+Step 5: Configure Account Settings
+Follow the on-screen instructions to configure your Amazon Polly account. Provide the necessary details, such as your account name, contact information, and payment method. Review the terms and conditions, and click on the "Create Account and Continue" button.
+
+Step 6: Verify Your Identity
+As part of the account setup process, you may be required to verify your identity. This could involve providing additional information or entering a verification code sent to your registered email address or phone number.
+
+Step 7: Complete the Setup
+After verifying your identity, you'll need to review your account details and make any necessary changes. Once you're satisfied, click on the "Complete Account Setup" button to finalize the process.
+
+Step 8: Start Using Amazon Polly
+Congratulations! You have successfully created an Amazon Polly account. You can now start exploring the various features and capabilities of Amazon Polly. Refer to the official Amazon Polly documentation for more information on how to use the service and integrate it into your applications.
+
+Additional Notes:
+
+Amazon Polly offers a Free Tier that allows you to try the service with certain limitations. Make sure to review the Free Tier details and any associated costs on the Amazon Polly pricing page.
+Remember to secure your Amazon Polly credentials and access keys to prevent unauthorized access to your account.
+If you encounter any issues during the account setup process or while using Amazon Polly, refer to the official Amazon Polly documentation or contact Amazon Web Services support for assistance.
+Disclaimer:
+This README file is provided as a general guide for creating an Amazon Polly account. The process may vary or change over time, so it's always recommended to refer to the official documentation and AWS resources for the most up-to-date instructions.
+
 ## Setup
 
 1. Clone this repository or download the script directly.

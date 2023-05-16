@@ -90,4 +90,4 @@ You: I'm ending this conversation. Goodbye!
 
 ## Conclusion
 
-Engage in dynamic and impressive conversations with the powerful conversation bot, powered by the fusion of GPT-3.5 and Google Bard. Explore a wide range of topics, challenge opinions, and delve into thought-provoking discussions. Let the bot
+Engage in dynamic and impressive conversations with the powerful conversation bot, powered by the fusion of GPT-3.5 and Google Bard. Explore a wide range of topics, challenge opinions, and delve into thought-provoking discussions. Let the bot ignite your curiosity and provide you with authoritative answers while experiencing the convenience of voice support and the ability to switch topics seamlessly. Get ready to immerse yourself in the world of intelligent conversation with this impressive script.

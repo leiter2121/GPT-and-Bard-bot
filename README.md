@@ -26,7 +26,7 @@ Before using this script, please ensure you have the following:
 1. Go to this site, and follow the instructions. https://medium.datadriveninvestor.com/access-google-bard-easily-with-python-package-bard-api-6de77b39cd04
 2. Insert the API Key into the test_fight.py script.
 
-## Setup Amazon AWS Account for Polly Spech
+## Setup Amazon AWS Account for Polly Speech
 
 Step 1: Go to the Amazon Polly Website
 Open your preferred web browser and navigate to the Amazon Polly website. You can visit the official website by entering the following URL into the browser's address bar: https://aws.amazon.com/polly/

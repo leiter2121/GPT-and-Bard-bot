@@ -22,6 +22,12 @@ Before using this script, please ensure you have the following:
 - The `speak_text` library
 - The `speak_text2` library
 
+## Get a Bard API Key
+1. Go to this site, and follow the instructions. https://medium.datadriveninvestor.com/access-google-bard-easily-with-python-package-bard-api-6de77b39cd04
+2. Insert the API Key into the ```shell script. 
+test_fight.py
+```
+
 ## Setup
 
 1. Clone this repository or download the script directly.

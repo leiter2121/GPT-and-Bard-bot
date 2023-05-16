@@ -50,11 +50,11 @@ test_fight.py
 
 3. The conversation bot will initiate the conversation by presenting its opinion on the topic and the reasons behind it.
 
-4. Engage in an aggressive conversation by responding to the bot's opinion.
+4. Engage in an aggressive conversation by listening to the bots converse with each other.
 
 5. To interrupt the conversation and exit gracefully, press the 'q' key on your keyboard.
 
-6. The bot will also provide you with the option to switch to a different topic after each interaction.
+6. The bots will eventually change topic on their own.
 
 ## Examples
 

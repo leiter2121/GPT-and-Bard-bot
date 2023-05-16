@@ -24,9 +24,7 @@ Before using this script, please ensure you have the following:
 
 ## Get a Bard API Key
 1. Go to this site, and follow the instructions. https://medium.datadriveninvestor.com/access-google-bard-easily-with-python-package-bard-api-6de77b39cd04
-2. Insert the API Key into the ```shell script. 
-test_fight.py
-```
+2. Insert the API Key into the test_fight.py script.
 
 ## Setup
 

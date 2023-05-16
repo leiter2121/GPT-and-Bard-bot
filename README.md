@@ -52,6 +52,8 @@ After verifying your identity, you'll need to review your account details and ma
 Step 8: Start Using Amazon Polly
 Congratulations! You have successfully created an Amazon Polly account. You can now start exploring the various features and capabilities of Amazon Polly. Refer to the official Amazon Polly documentation for more information on how to use the service and integrate it into your applications.
 
+Step 9: Insert your AWS ID, AWS Region, and AWS Seceret Keys into the speak_text.py, and speak_text2.py.
+
 Additional Notes:
 
 Amazon Polly offers a Free Tier that allows you to try the service with certain limitations. Make sure to review the Free Tier details and any associated costs on the Amazon Polly pricing page.

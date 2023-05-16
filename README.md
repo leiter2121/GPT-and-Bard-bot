@@ -8,7 +8,7 @@ This powerful conversation bot script combines the cutting-edge capabilities of 
 - Utilizes the sophisticated Google Bard API to obtain authoritative answers.
 - Voice support for both GPT and Bard responses using Amazon Polly.
 - Keyboard interrupt feature to gracefully exit the conversation.
-- Allows you to switch topics seamlessly during the conversation.
+
 
 ## Requirements
 

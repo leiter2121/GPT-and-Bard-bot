@@ -113,7 +113,7 @@ pip install pickle bardapi openai keyboard
 
 4. Set your OpenAI API key by replacing the value of `openai.api_key` in the script with your own OpenAI API key.
 
-5. Set you AWS Keys by replace the vaules in the `speak_text.py` and `speak_text2.py` scripts.
+5. Set your AWS Keys by replace the vaules in the `speak_text.py` and `speak_text2.py` scripts.
 
 6. Run the script using the following command:
 

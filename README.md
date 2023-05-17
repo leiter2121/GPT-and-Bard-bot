@@ -14,7 +14,7 @@ This powerful conversation bot script combines the cutting-edge capabilities of 
 
 Before using this script, please ensure you have the following:
 
-- Python 3.7 or higher installed
+- Python 3.8 or higher installed https://www.python.org/downloads/release/python-380/
 - The `pickle` library
 - The `bardapi` library
 - The `openai` library

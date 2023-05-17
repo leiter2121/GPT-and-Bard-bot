@@ -123,13 +123,13 @@ test_fight.py
 
 ## Usage
 
-1. After running the script, you will be prompted to enter a topic for the conversation bots.
+1. After running the script, you will be prompted to enter a topic for Bard, and GPT bots to converse about.
 
-2. Once you enter the topic, the powerful conversation bot will start generating impressive responses.
+2. Once you enter the topic, the powerful AI bots will start generating impressive responses.
 
-3. The conversation bot will initiate the conversation by presenting its opinion on the topic and the reasons behind it.
+3. The conversation bots will initiate the topic with their opinions on the subject and the reasons behind it.
 
-4. Engage in an aggressive conversation by listening to the bots converse with each other.
+4. Engage in an aggressive conversation by listening to the two most powerful LLMS converse with each other!
 
 5. To interrupt the conversation and exit gracefully, press the 'q' key on your keyboard.
 
